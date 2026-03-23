@@ -1,0 +1,4 @@
+forest:
+  max-connections: 1000 # 最大链接数
+  connect-timeout: 3000 # 链接超时时间3秒
+  read-timeout: 3000 # 读取超时时间3秒
