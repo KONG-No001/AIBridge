@@ -1,6 +1,6 @@
-package link.kongyu.napcatqq.service;
+package link.kongyu.aiBridge.service;
 
-import link.kongyu.napcatqq.ai.Aixi;
+import link.kongyu.aiBridge.ai.Aixi;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

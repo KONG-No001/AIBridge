@@ -1,6 +1,6 @@
-package link.kongyu.napcatqq.controller;
+package link.kongyu.aiBridge.controller;
 
-import link.kongyu.napcatqq.service.QQBridgeService;
+import link.kongyu.aiBridge.service.QQBridgeService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

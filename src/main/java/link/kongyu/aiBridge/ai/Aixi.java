@@ -1,8 +1,8 @@
-package link.kongyu.napcatqq.ai;
+package link.kongyu.aiBridge.ai;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import link.kongyu.napcatqq.client.CatQQClient;
+import link.kongyu.aiBridge.client.CatQQClient;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

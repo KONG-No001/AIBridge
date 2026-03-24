@@ -1,4 +1,4 @@
-package link.kongyu.napcatqq.client;
+package link.kongyu.aiBridge.client;
 
 import com.dtflys.forest.annotation.BaseRequest;
 import com.dtflys.forest.annotation.JSONBody;

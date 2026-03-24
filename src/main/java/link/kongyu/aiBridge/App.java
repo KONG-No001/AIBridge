@@ -1,4 +1,4 @@
-package link.kongyu.napcatqq;
+package link.kongyu.aiBridge;
 
 import com.dtflys.forest.springboot.annotation.ForestScan;
 import org.springframework.boot.SpringApplication;
